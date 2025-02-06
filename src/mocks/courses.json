@@ -1,10 +1,12 @@
 [
   {
-    "id": "course-001",
+    "id": "course-shinkanzen-n3-grammar",
     "title": "Shinkanzen Master N3 Grammar",
     "slug": "shinkanzen-master-n3-grammar",
     "description": "Comprehensive N3 grammar course using the Shinkanzen Master textbook.",
     "type": "grammar",
-    "sections": ["section-1", "section-2"]
+    "sections": ["section-toki"],
+    "tags": ["JLPT", "N3", "Shinkanzen Master", "Japanese"],
+    "imageUrl": "/images/courses/shinkanzen-master-n3-grammar.jpg"
   }
 ]

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "uchi-ni",
+    "title": "～うちに⋯",
+    "meanings": {
+      "jp": "ある状態が変わる前に何かをする、またはその状態が続いている間に自然と変化が起こる",
+      "en": "To do something before a situation changes, or while a situation is continuing, a change naturally occurs.",
+      "vi": "Làm một việc gì đó trước khi trạng thái thay đổi, hoặc trong khi trạng thái tiếp diễn, một sự thay đổi tự nhiên xảy ra."
+    },
+    "usages": [
+      {
+        "description": {
+          "jp": "ある状態が変わる前に、意志を持って何かをする。",
+          "en": "Do something before the situation changes with intention.",
+          "vi": "Thực hiện một hành động có ý chí trước khi trạng thái thay đổi."
+        },
+        "structures": {
+          "jp": "名詞の／動詞（辞書形・ている形・ない形）／い形容詞／な形容詞 + うちに",
+          "en": "Noun + の / Verb (dictionary form / ている-form / ない-form) / い-adjective / な-adjective + うちに",
+          "vi": "Danh từ + の / Động từ (dạng từ điển / ている / ない) / Tính từ đuôi い / Tính từ đuôi な + うちに"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "日本にいるうちに、一度富士山に登ってみたい。",
+              "en": "I want to try climbing Mt. Fuji while I'm still in Japan.",
+              "vi": "Tôi muốn thử leo núi Phú Sĩ một lần trong lúc còn ở Nhật."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "はい、アイスクリーム。溶けないうちに食べてくださいね。",
+              "en": "Here’s some ice cream. Please eat it before it melts.",
+              "vi": "Đây, kem đây. Hãy ăn trước khi nó tan chảy nhé."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "明るいうちに部屋の掃除をしてしまおう。",
+              "en": "Let's clean the room before it gets dark.",
+              "vi": "Hãy dọn dẹp phòng trước khi trời tối."
+            }
+          }
+        ]
+      },
+      {
+        "description": {
+          "jp": "ある状態が続いている間に、自然と変化が起こる。",
+          "en": "While a state is continuing, a change naturally happens.",
+          "vi": "Khi trạng thái vẫn tiếp diễn, một sự thay đổi tự nhiên xảy ra."
+        },
+        "structures": {
+          "jp": "動詞（辞書形・ている形・ない形）+ うちに",
+          "en": "Verb (dictionary form / ている-form / ない-form) + うちに",
+          "vi": "Động từ (dạng từ điển / ている / ない) + うちに"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "音楽を聞いているうちに、眠ってしまった。",
+              "en": "While I was listening to music, I fell asleep.",
+              "vi": "Trong lúc đang nghe nhạc, tôi ngủ quên mất."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "少し難しい曲でも、練習を重ねるうちに弾けるようになりますよ。",
+              "en": "Even if a song is difficult, with enough practice, you'll be able to play it.",
+              "vi": "Dù là bài nhạc hơi khó, nếu luyện tập nhiều thì sẽ chơi được thôi."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "気がつかないうちに、外は暗くなっていた。",
+              "en": "Before I noticed, it had already gotten dark outside.",
+              "vi": "Khi không để ý, trời đã tối mất rồi."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  { 
+    "id": "aida-aidani",
+    "title": "～間⋯・～間に⋯",
+    "meanings": {
+      "jp": "ある状態が続いている間、ずっと何かをする、またはその間に何かが起こる。",
+      "en": "While a certain state continues, something happens continuously or an event occurs during that time.",
+      "vi": "Trong khi một trạng thái vẫn tiếp diễn, một hành động liên tục xảy ra hoặc một sự kiện diễn ra trong thời gian đó."
+    },
+    "usages": [
+      {
+        "description": {
+          "jp": "「A間…」: Aの状態が続いているとき、ずっと…する・ずっと…の状態だ。",
+          "en": "While A is continuing, B is continuously happening or remains in a certain state.",
+          "vi": "Khi A vẫn tiếp diễn, B liên tục xảy ra hoặc duy trì trạng thái nhất định."
+        },
+        "structures": {
+          "jp": "名詞の／動詞（辞書形・ている形・ない形） + 間",
+          "en": "Noun + の / Verb (dictionary form / ている-form / ない-form) + 間",
+          "vi": "Danh từ + の / Động từ (dạng từ điển / ている / ない) + 間"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "お母さんが昼寝をしている間、子どもたちはテレビを見ていた。",
+              "en": "While mom was taking a nap, the children were watching TV.",
+              "vi": "Trong khi mẹ đang ngủ trưa, bọn trẻ xem TV."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "私が旅行で留守の間、うちの犬の世話をお願いできないでしょうか。",
+              "en": "While I am away on a trip, could you take care of my dog?",
+              "vi": "Trong khi tôi đi du lịch vắng nhà, bạn có thể chăm sóc chó của tôi không?"
+            }
+          }
+        ]
+      },
+      {
+        "description": {
+          "jp": "「A間に…」: Aの状態が続いているときに、ある出来事が起こる。",
+          "en": "While A is continuing, an event B happens during that period.",
+          "vi": "Khi A vẫn tiếp diễn, một sự kiện B xảy ra trong thời gian đó."
+        },
+        "structures": {
+          "jp": "名詞の／動詞（辞書形・ている形・ない形） + 間に",
+          "en": "Noun + の / Verb (dictionary form / ている-form / ない-form) + 間に",
+          "vi": "Danh từ + の / Động từ (dạng từ điển / ている / ない) + 間に"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "お母さんが昼寝をしている間に、子どもたちは外に出かけた。",
+              "en": "While mom was taking a nap, the children went outside.",
+              "vi": "Trong khi mẹ đang ngủ trưa, bọn trẻ ra ngoài chơi."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "私が旅行で留守の間に、庭に草がたくさん生えてしまった。",
+              "en": "While I was away on a trip, a lot of grass grew in the garden.",
+              "vi": "Trong khi tôi đi du lịch vắng nhà, cỏ trong vườn mọc um tùm."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tekara-denaito",
+    "title": "～てからでないと⋯・～てからでなければ⋯",
+    "meanings": {
+      "jp": "Aが行われない限り、Bができない、またはBの状態にならない。",
+      "en": "Unless A happens first, B cannot happen or be done.",
+      "vi": "Nếu A chưa xảy ra trước thì B không thể xảy ra hoặc không thể thực hiện."
+    },
+    "usages": [
+      {
+        "description": {
+          "jp": "Aが実行される前にBをすることはできない。Bには否定的な意味や制約が含まれる。",
+          "en": "B cannot happen before A is completed. B usually involves a restriction or a negative consequence.",
+          "vi": "B không thể xảy ra trước khi A được thực hiện. B thường mang ý nghĩa tiêu cực hoặc có sự hạn chế."
+        },
+        "structures": {
+          "jp": "動詞（て形）+ からでないと / からでなければ",
+          "en": "Verb (て-form) + からでないと / からでなければ",
+          "vi": "Động từ (thể て) + からでないと / からでなければ"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "店員「いかがですか。こちらの絵は素晴らしいですよ。」\n客「高い物なので、家族と相談してからでないと買うかどうか決められませんね。」",
+              "en": "Clerk: 'How about this? This painting is wonderful, isn't it?'\nCustomer: 'Since it's expensive, I can't decide whether to buy it or not until I consult with my family.'",
+              "vi": "Nhân viên: 'Anh/chị thấy thế nào? Bức tranh này rất tuyệt vời đấy.'\nKhách: 'Vì món này đắt tiền, tôi không thể quyết định mua hay không nếu chưa bàn bạc với gia đình.'"
+            }
+          },
+          {
+            "sentence": {
+              "jp": "運転免許を取ってからでなければ、車を運転してはいけない。",
+              "en": "Unless you get a driver's license first, you are not allowed to drive a car.",
+              "vi": "Nếu chưa có bằng lái xe thì không được phép lái xe."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "病気が治ってからでなければ、激しい運動は無理だ。",
+              "en": "Unless you recover from your illness first, strenuous exercise is impossible.",
+              "vi": "Nếu chưa khỏi bệnh thì không thể vận động mạnh."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tokoro-da",
+    "title": "～ところだ・～ところ(+助詞)⋯",
+    "meanings": {
+      "jp": "Aがちょうど起こる前、起こっている最中、または起こった直後を表す。",
+      "en": "Indicates just before, during, or just after an event occurs.",
+      "vi": "Diễn tả một hành động ngay trước khi xảy ra, đang diễn ra hoặc vừa mới xảy ra."
+    },
+    "usages": [
+      {
+        "description": {
+          "jp": "Aの直前（①）・進行中（②）・直後（③④）を表す。",
+          "en": "Indicates just before (①), during (②), or just after (③④) an event.",
+          "vi": "Diễn tả hành động ngay trước khi xảy ra (①), đang diễn ra (②) hoặc vừa mới xảy ra (③④)."
+        },
+        "structures": {
+          "jp": "動詞（辞書形・ている形・た形）+ ところだ / ところ(+助詞)⋯",
+          "en": "Verb (dictionary form / ている-form / た-form) + ところだ⋯ / ところ(+particle)⋯",
+          "vi": "Động từ (dạng từ điển / ている / た) + ところだ⋯ / ところ(+trợ từ)⋯"
+        },
+        "examples": [
+          {
+            "sentence": {
+              "jp": "ロケットは間もなく飛び立つところです。緊張の瞬間です。",
+              "en": "The rocket is just about to take off. It's a tense moment.",
+              "vi": "Tên lửa sắp sửa cất cánh. Đây là một khoảnh khắc căng thẳng."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "試験中、となりの人の答えを見ているところを先生に注意された。",
+              "en": "During the exam, I was caught by the teacher while looking at my neighbor's answer.",
+              "vi": "Trong lúc thi, tôi bị giáo viên nhắc nhở vì đang nhìn bài của người bên cạnh."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "楽しみにしていたテレビドラマが始まったところで電話が鳴った。",
+              "en": "Just when the TV drama I was looking forward to started, the phone rang.",
+              "vi": "Ngay khi bộ phim truyền hình tôi mong đợi bắt đầu, điện thoại reo."
+            }
+          },
+          {
+            "sentence": {
+              "jp": "ケーキができ上がったところへ子どもたちが帰ってきた。",
+              "en": "Just as the cake was finished, the children came home.",
+              "vi": "Ngay khi chiếc bánh vừa hoàn thành, bọn trẻ về nhà."
+            }
+          }
+        ]
+      }
+    ]
+  }
+      
+]

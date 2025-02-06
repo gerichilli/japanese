@@ -1,0 +1,14 @@
+[
+  {
+    "id": "lesson-toki",
+    "title": "～とき",
+    "description": "",
+    "materials": [
+      {
+        "type": "grammar",
+        "contentIds": ["uchi-ni", "aida-aidani", "tekara-denaito", "tokoro-da"]
+      }
+    ],
+    "exercises": []
+  }
+]
