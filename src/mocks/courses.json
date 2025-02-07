@@ -5,8 +5,139 @@
     "slug": "shinkanzen-master-n3-grammar",
     "description": "Comprehensive N3 grammar course using the Shinkanzen Master textbook.",
     "type": "grammar",
-    "sections": ["section-toki"],
-    "tags": ["JLPT", "N3", "Shinkanzen Master", "Japanese"],
+    "sections": [
+      "section-toki"
+    ],
+    "tags": [
+      "JLPT",
+      "N3",
+      "Shinkanzen Master",
+      "Japanese"
+    ],
     "imageUrl": "/images/courses/shinkanzen-master-n3-grammar.jpg"
+  },
+  {
+    "id": "course-minna-n4-grammar",
+    "title": "Minna no Nihongo N4 Grammar",
+    "slug": "minna-no-nihongo-n4-grammar",
+    "description": "Basic grammar lessons for JLPT N4 using Minna no Nihongo.",
+    "type": "grammar",
+    "sections": [
+      "section-tara",
+      "section-to"
+    ],
+    "tags": [
+      "JLPT",
+      "N4",
+      "Minna no Nihongo",
+      "Japanese"
+    ],
+    "imageUrl": "/images/courses/minna-no-nihongo-n4-grammar.jpg"
+  },
+  {
+    "id": "course-soumatome-n2-grammar",
+    "title": "Nihongo Soumatome N2 Grammar",
+    "slug": "nihongo-soumatome-n2-grammar",
+    "description": "Essential N2 grammar structures covered in the Nihongo Soumatome series.",
+    "type": "grammar",
+    "sections": [
+      "section-nagara",
+      "section-koto"
+    ],
+    "tags": [
+      "JLPT",
+      "N2",
+      "Soumatome",
+      "Japanese"
+    ],
+    "imageUrl": "/images/courses/nihongo-soumatome-n2-grammar.jpg"
+  },
+  {
+    "id": "course-tobira-intermediate",
+    "title": "Tobira Intermediate Grammar",
+    "slug": "tobira-intermediate-grammar",
+    "description": "Intermediate grammar lessons from the Tobira textbook series.",
+    "type": "grammar",
+    "sections": [
+      "section-youni",
+      "section-mitai"
+    ],
+    "tags": [
+      "Intermediate",
+      "Japanese",
+      "Tobira"
+    ],
+    "imageUrl": "/images/courses/tobira-intermediate-grammar.jpg"
+  },
+  {
+    "id": "course-genki-n5-grammar",
+    "title": "Genki N5 Grammar",
+    "slug": "genki-n5-grammar",
+    "description": "Fundamental Japanese grammar structures for beginners using Genki I & II.",
+    "type": "grammar",
+    "sections": [
+      "section-desu",
+      "section-ga"
+    ],
+    "tags": [
+      "JLPT",
+      "N5",
+      "Genki",
+      "Japanese"
+    ],
+    "imageUrl": "/images/courses/genki-n5-grammar.jpg"
+  },
+  {
+    "id": "course-shinkanzen-n2-reading",
+    "title": "Shinkanzen Master N2 Reading",
+    "slug": "shinkanzen-master-n2-reading",
+    "description": "Advanced reading comprehension strategies for JLPT N2.",
+    "type": "reading",
+    "sections": [
+      "section-expository",
+      "section-argumentative"
+    ],
+    "tags": [
+      "JLPT",
+      "N2",
+      "Reading",
+      "Shinkanzen Master"
+    ],
+    "imageUrl": "/images/courses/shinkanzen-master-n2-reading.jpg"
+  },
+  {
+    "id": "course-minna-n4-vocabulary",
+    "title": "Minna no Nihongo N4 Vocabulary",
+    "slug": "minna-no-nihongo-n4-vocabulary",
+    "description": "A structured vocabulary course for JLPT N4 learners.",
+    "type": "vocabulary",
+    "sections": [
+      "section-food",
+      "section-travel"
+    ],
+    "tags": [
+      "JLPT",
+      "N4",
+      "Minna no Nihongo",
+      "Vocabulary"
+    ],
+    "imageUrl": "/images/courses/minna-no-nihongo-n4-vocabulary.jpg"
+  },
+  {
+    "id": "course-core-2000-vocabulary",
+    "title": "Core 2000 Japanese Vocabulary",
+    "slug": "core-2000-japanese-vocabulary",
+    "description": "A curated list of the most essential 2000 Japanese words for daily conversation.",
+    "type": "vocabulary",
+    "sections": [
+      "section-nouns",
+      "section-verbs"
+    ],
+    "tags": [
+      "Vocabulary",
+      "Core 2000",
+      "Japanese"
+    ],
+    "imageUrl": "/images/courses/core-2000-japanese-vocabulary.jpg"
   }
 ]

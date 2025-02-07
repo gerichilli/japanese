@@ -4,14 +4,14 @@ import clsx from "clsx";
 interface ContainerProps {
   children: React.ReactNode;
   className?: string;
-  fluid?: boolean; 
+  fluid?: boolean;
 }
 
 function Container({ children, className, fluid = false }: ContainerProps) {
   return (
     <div
       className={clsx(
-        fluid ? "w-full px-4" : "max-w-8xl mx-auto", // Adjust `max-w-*` as needed
+        fluid ? "w-full px-4" : "max-w-7xl mx-auto", // Adjust `max-w-*` as needed
         className
       )}
     >
@@ -20,4 +20,4 @@ function Container({ children, className, fluid = false }: ContainerProps) {
   );
 }
 
-export default Container
+export default Container;
